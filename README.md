@@ -17,3 +17,9 @@ Web scraping BigBasket products, cleaning and storing data in MySQL, and visuali
   **Stage 4:** Data Visualization in Power BI
     Retrieved processed data from MySQL into Power BI.
     Built interactive dashboards to compare grocery prices, analyze affordability, and visualize trends effectively.
+
+# Technologies Used
+ * Python (for Web Scraping & Data Cleaning)
+ * MySQL (for Data Storage & Querying)
+ * Power BI (for Data Visualization)
+ * Pandas, BeautifulSoup, pymysql (for data handling and database connection)
