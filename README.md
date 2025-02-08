@@ -22,7 +22,7 @@ Web scraping BigBasket products, cleaning and storing data in MySQL, and visuali
  * Python (for Web Scraping & Data Cleaning)
  * MySQL (for Data Storage & Querying)
  * Power BI (for Data Visualization)
- * Pandas, BeautifulSoup, pymysql (for data handling and database connection)
+ * Pandas, Selenium, pymysql (for data handling and database connection)
 
 # Project Outcome
  * Successfully extracted grocery product data.
