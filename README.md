@@ -2,9 +2,9 @@
 Web scraping BigBasket products, cleaning and storing data in MySQL, and visualizing insights with a Power BI dashboard.
 
 # Project Stages
-  **Stage 1:** Scraping and Storing Raw Data
-    * Scraped grocery product details (Product Name, Price, Discount, and Category) from BigBasket.
-    * Stored the raw data in bigbasket.csv for further processing.  
+  **Stage 1 Scraping and Storing Raw Data:**
+  * Scraped grocery product details (Product Name, Price, Discount, and Category) from BigBasket.
+  * * Stored the raw data in bigbasket.csv for further processing.  
   
   **Stage 2:** Data Preprocessing and Storing in MySQL
     * Cleaned and preprocessed the raw data (handling duplicates, missing values, and formatting).
